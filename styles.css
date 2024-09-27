@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(231, 231, 255);
+  
+    padding: 50px;   
+}
+h1,h5,BR,p
+    { 
+        color: rgb(13, 4, 192);
+    }
+  a{ 
+text-align: center;
+  }
